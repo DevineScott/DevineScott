@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Devin! <br/><a >Programmer</a>, <a >Cybersecurity Professional</a>, <a >YouTuber</a></h1>
+
+<h2>👨‍💻 Cybersecuirty Projects:</h2>
+
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [A Day in the Life of a Cybersecurity Anayst]
+
+<h2> 🤳 Connect with me:</h2>
 
 <!--
 **DevineScott/DevineScott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
